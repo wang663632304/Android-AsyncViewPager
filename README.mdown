@@ -1,0 +1,7 @@
+Android ViewPager with async data loading with Android-ViewPagerIndicator.
+===========================
+
+You need to include [Android-ViewPagerIndicator][1] project by [referencing it as a library project][2] in Eclipse or ant.
+
+ [1]: https://github.com/JakeWharton/Android-ViewPagerIndicator
+ [2]: http://developer.android.com/guide/developing/projects/projects-eclipse.html#ReferencingLibraryProject
